@@ -36,7 +36,7 @@ namespace DesafioFundamentos.Models
                 // TODO: Realizar o seguinte cálculo: "precoInicial + precoPorHora * horas" para a variável valorTotal                
                 // *IMPLEMENTE AQUI*
                 int horas = 0;
-                int horastotal = 1;
+
                 decimal valorTotal = 0; 
 
                 // TODO: Remover a placa digitada da lista de veículos
